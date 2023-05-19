@@ -10,7 +10,7 @@
 
 This repository is a companions to [arXiv:2301.00025](https://arxiv.org/abs/2301.00025). It contains the data presented in the paper and all necessary configuration files to replicate the results. We also provide Pyhton scripts for reproducing the plots from this publication.
 
-To install the Boltzmann echo waveform model with PyCBC code please use [this branch](https://github.com/jahedabedi/pycbc/tree/Boltzmann_echoes). All the configuration files and data to generate plots are avalable in [this branch](https://www.atlas.aei.uni-hannover.de/work/jahed.abedi/Echoes/combine_all/all/fixed_A/).
+To install the Boltzmann echo waveform model with PyCBC code please use [this branch](https://github.com/jahedabedi/pycbc/tree/Boltzmann_echoes). All the configuration files and data to generate plots are avalable in [this branch](https://www.atlas.aei.uni-hannover.de/work/jahed.abedi/Echoes/combine_all/all/fixed_A/). It also contains posterior files generated from each job. Any folder number (name) represents corresponding overall Echo amplitude of each set jobs of 65 events.
 
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 ```
