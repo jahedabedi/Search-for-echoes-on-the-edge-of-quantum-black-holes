@@ -1,14 +1,10 @@
 # Search for echoes on the edge of quantum black holes
 
-**Jahed Abedi<sup>1,2,3</sup>, Luís Felipe Longo Micchi<sup>4</sup>, Niayesh Afshordi<sup>5,6,7</sup>**
+**Jahed Abedi<sup>1,2,3</sup>
 
 <sub>1. Department  of  Mathematics  and  Physics,  University  of  Stavanger,  NO-4036  Stavanger,  Norway</sub><br />
 <sub>2. Max-Planck-Institut  f\"ur  Gravitationsphysik,  D-30167  Hannover,  Germany</sub><br />
 <sub>3. Leibniz  Universit ̈at  Hannover,  D-30167  Hannover,  Germany </sub><br />
-<sub>4. Center  for  Natural  and  Human  Sciences,  UFABC,  Santo  Andr ́ıe,  SP  09210-170,  Brazil </sub><br />
-<sub>5. Department  of  Physics  and  Astronomy,  University  of  Waterloo,200  University  Ave  W,  N2L  3G1,  Waterloo,  Canada </sub>
-<sub>6. Waterloo  Centre  for  Astrophysics,  University  of  Waterloo,  Waterloo,  ON,  N2L  3G1,  Canada </sub>
-<sub>7. Perimeter  Institute  For  Theoretical  Physics,  31  Caroline  St  N,  Waterloo,  Canada </sub>
 
 
 
